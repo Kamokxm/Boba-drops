@@ -9,3 +9,6 @@ body {
     background: aqua;
     color: blueviolet;
 }
+img{
+    border-radius: 40px;
+}
